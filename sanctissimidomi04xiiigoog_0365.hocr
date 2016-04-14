@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./sanctissimidomi04xiiigoog_0365.png"; bbox 0 0 3117 4859; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 134 2012 1164 2103">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 120 2012 1250 2115">
+     <span class='ocr_line' id='line_1_1' title="bbox 134 2012 1164 2103; baseline -0.016 11.777"><span class='ocrx_word' id='word_1_1' title='bbox 134 2012 145 2057; x_wconf 79' lang='lat'>‘·</span> <span class='ocrx_word' id='word_1_2' title='bbox 191 2016 1164 2103; x_wconf 74' lang='lat' dir='ltr'>sANcT1ss1M1DoM1N1NosTR1</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 120 2234 1153 2411">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 120 2234 1250 2411">
+     <span class='ocr_line' id='line_1_2' title="bbox 120 2234 1153 2411; baseline -0.022 -33"><span class='ocrx_word' id='word_1_3' title='bbox 120 2234 137 2411; x_wconf 62' lang='lat' dir='ltr'>J</span> <span class='ocrx_word' id='word_1_4' title='bbox 208 2241 578 2372; x_wconf 87' lang='lat' dir='ltr'>LEONIS</span> <span class='ocrx_word' id='word_1_5' title='bbox 624 2238 925 2373; x_wconf 87' lang='lat' dir='ltr'><strong>PAPAE</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 970 2246 1153 2375; x_wconf 91' lang='lat' dir='ltr'>XIII</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 120 2480 1200 2614">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 120 2480 1251 2614">
+     <span class='ocr_line' id='line_1_3' title="bbox 120 2480 1200 2614; baseline -0.002 -31"><span class='ocrx_word' id='word_1_7' title='bbox 120 2547 135 2559; x_wconf 93' lang='lat'>··</span> <span class='ocrx_word' id='word_1_8' title='bbox 182 2480 1200 2614; x_wconf 71' lang='lat' dir='ltr'>llocutione8,Epistolae,C0nstitutiones‚</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 191 2698 1225 2788">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 191 2698 1238 2810">
+     <span class='ocr_line' id='line_1_4' title="bbox 191 2698 1225 2788; baseline 0.023 -23"><span class='ocrx_word' id='word_1_9' title='bbox 191 2738 297 2769; x_wconf 98' lang='grc' dir='ltr'><em>Μ</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 323 2702 552 2788; x_wconf 75' lang='lat' dir='ltr'><strong>ALlAQUE</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 578 2700 717 2775; x_wconf 78' lang='lat' dir='ltr'>ACTA</span> <span class='ocrx_word' id='word_1_12' title='bbox 747 2698 1049 2781; x_wconf 54' lang='lat' dir='ltr'>Pnasscwun.</span> <span class='ocrx_word' id='word_1_13' title='bbox 1077 2739 1178 2770; x_wconf 62' lang='lat' dir='ltr'>mm</span> <span class='ocrx_word' id='word_1_14' title='bbox 1221 2741 1225 2754; x_wconf 63' lang='lat'><strong><em>¹</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1564 4859">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1564 4859">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1564 4859; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 0 0 1564 4859; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
